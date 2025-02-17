@@ -63,9 +63,11 @@ This ensures all subsequent analyses and visualizations are based on **reliable,
 ---
 
 ## Sales Form (Sheet: "Sales Form")
+
 - A **user-friendly data entry form** for adding new sales records.
 - Uses **data validation** to ensure accuracy (dropdown lists for categories, payment methods).
 - Employs **macros** to **automate data transfer and pivot table refreshes**.
+![Sales_Form](https://github.com/user-attachments/assets/65d31744-21f3-46b3-8837-27db5a1253b5)
 
 By updating the workbook **in real time**, any new sales data is immediately **reflected in reports and dashboards**.
 
@@ -73,6 +75,9 @@ By updating the workbook **in real time**, any new sales data is immediately **r
 
 ## Interactive Dashboard (Sheet: "Dashboard")
 - Offers **real-time insights into sales performance**, featuring:
+![Dashboard](https://github.com/user-attachments/assets/534d1b7f-a441-4acd-9af7-4a1074707f9d)
+
+
   - **Revenue by Country** (dynamic map)
   - **Sales by Category** (bar charts)
   - **Orders by Payment Method** (pie chart)
