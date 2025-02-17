@@ -97,8 +97,7 @@ On the left side of the dashboard, six clickable icons link to:
 
 
 
-1. **Refresh Data** ![image](https://github.com/user-attachments/assets/fa95ccb6-fbf0-48b3-8c66-3ef3ca3d4323)
- – Updates all pivot tables and calculations.
+1. **Refresh Data** ![image](https://github.com/user-attachments/assets/fa95ccb6-fbf0-48b3-8c66-3ef3ca3d4323)– Updates all pivot tables and calculations.
 2. **Dashboard** ![image](https://github.com/user-attachments/assets/02b17cef-56af-44fa-b7ec-7537e085d7bd)
   – Returns to the main interface.
 3. **Descriptive Statistics** ![image](https://github.com/user-attachments/assets/c6df1649-1cb7-432d-b57a-e40107b39bea)
