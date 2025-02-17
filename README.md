@@ -82,7 +82,7 @@ By updating the workbook **in real time**, any new sales data is immediately **r
 
 ## Interactive Dashboard (Sheet: "Dashboard")
 - Offers **real-time insights into sales performance**, featuring:
-- 
+
 ![Dashboard](https://github.com/user-attachments/assets/534d1b7f-a441-4acd-9af7-4a1074707f9d)
 
 
@@ -112,7 +112,6 @@ On the left side of the dashboard, six clickable icons link to:
 
 ## File Structure
 - **Retail_Sales_Full_Project_Dashboard.xlsm**
-  - **Raw Data** – Original dataset with potential duplicates or missing values [Sales_Raw_Data.xlsx](https://github.com/Saher-Younas/Retail_Store_Excel_Data_Analysis/blob/main/sales_raw_data.xlsx)
   - **Cleaned Data** – Refined table for accurate calculations and named as Retail Store Sale
   - **Data Analysis** – Statistical summaries (descriptive statistics, T-test)
   - **KPI** – Key performance metrics derived from pivot tables
