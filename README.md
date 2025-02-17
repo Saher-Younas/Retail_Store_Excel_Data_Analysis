@@ -6,15 +6,19 @@ This repository contains an Excel-based **Sales Data Analysis & Dashboard** desi
 ---
 
 ## How to Download & Extract Files
-1. Click on the ZIP file link: [Retail_Sales_Full_Project_Dashboard.zip](https://github.com/Saher-Younas/Retail_Store_Excel_Data_Analysis/blob/main/Retail_Sales_Full_Project_Dashboard.zip).
-2. Download the ZIP file to your computer.
-3. Extract the contents using one of the following methods:
+1. Download the required files
+Raw Data : [Sales_Raw_Data.xlsx](https://github.com/Saher-Younas/Retail_Store_Excel_Data_Analysis/blob/main/sales_raw_data.xlsx)                                                       Cleaned Data : [Retail_Store_Sales_Cleaned_Data.xlsx](https://github.com/Saher-Younas/Retail_Store_Excel_Data_Analysis/blob/main/Retail_Store_Sales_Cleaned_Data.xlsx)
+- Locate the downloaded XLSX file on your computer.
+- Double-click to open it in Microsoft Excel (or an alternative spreadsheet software like Google Sheets).
+2. Click on the ZIP file link: [Retail_Sales_Full_Project_Dashboard.zip](https://github.com/Saher-Younas/Retail_Store_Excel_Data_Analysis/blob/main/Retail_Sales_Full_Project_Dashboard.zip).
+3. Download the ZIP file to your computer.
+4. Extract the contents using one of the following methods:
    - **Windows**: Right-click the file and select "Extract All."
    - **Mac**: Double-click the ZIP file to unzip it.
    - **Linux**: Use the command `unzip Sales_Analysis_Resources.zip` in the terminal.
-4. Open the extracted Excel files in Microsoft Excel to explore the data and dashboard.
-5. Ensure that macros and external links are enabled for full functionality.
-6. When prompted, **enable macros** so that the automated features (data entry form, pivot table refreshes) function correctly.
+5. Open the extracted Excel files in Microsoft Excel to explore the data and dashboard.
+6. Ensure that macros and external links are enabled for full functionality.
+7. When prompted, **enable macros** so that the automated features (data entry form, pivot table refreshes) function correctly.
 
 ---
 
