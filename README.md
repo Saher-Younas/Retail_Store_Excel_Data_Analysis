@@ -97,17 +97,17 @@ On the left side of the dashboard, six clickable icons link to:
 
 
 
-1. **Refresh Data** ![image](https://github.com/user-attachments/assets/9f1cdc22-4fc9-4e2e-bfee-272d0ef9591c)
+1. **Refresh Data** ![image](https://github.com/user-attachments/assets/fa95ccb6-fbf0-48b3-8c66-3ef3ca3d4323)
  – Updates all pivot tables and calculations.
-2. **Dashboard** ![image](https://github.com/user-attachments/assets/d5fc78b6-6fec-4e2a-b55e-b18a8d433c73)
+2. **Dashboard** ![image](https://github.com/user-attachments/assets/02b17cef-56af-44fa-b7ec-7537e085d7bd)
   – Returns to the main interface.
-3. **Descriptive Statistics** ![image](https://github.com/user-attachments/assets/4cd56658-cd29-4894-87d2-1a1ce2fda758)
+3. **Descriptive Statistics** ![image](https://github.com/user-attachments/assets/c6df1649-1cb7-432d-b57a-e40107b39bea)
   – Opens the Data_Analysis sheet for summary metrics and T-tests.
-4. **Sales Form**  ![image](https://github.com/user-attachments/assets/8dd72aaf-a13b-4e6f-b03e-43975cdf0dd4)
+4. **Sales Form**  ![image](https://github.com/user-attachments/assets/cab73641-5f2a-41ec-aed5-c1ee9770c2b0)
  – Jumps to the data entry form.
-5. **Cleaned Dataset**  ![image](https://github.com/user-attachments/assets/01237199-b60c-400e-b9b1-c87a04b7c4c9)
+5. **Cleaned Dataset** ![image](https://github.com/user-attachments/assets/3d9f48cd-5f98-4bab-84ca-af87e6a36964)
  – Displays the processed, duplicate-free data.
-6. **Map Visualization** ![image](https://github.com/user-attachments/assets/435ce8e3-5627-4781-bb67-675e82ae43d6)
+6. **Map Visualization** ![image](https://github.com/user-attachments/assets/33d05d92-cd96-471d-bc28-50193c02a12c)
  – Highlights **sales distribution** across regions.
 
 ---
