@@ -94,12 +94,20 @@ By updating the workbook **in real time**, any new sales data is immediately **r
 
 ### **Navigation Icons**
 On the left side of the dashboard, six clickable icons link to:
-1. **Refresh Data** – Updates all pivot tables and calculations.
-2. **Dashboard** – Returns to the main interface.
-3. **Descriptive Statistics** – Opens the Data_Analysis sheet for summary metrics and T-tests.
-4. **Sales Form** – Jumps to the data entry form.
-5. **Cleaned Dataset** – Displays the processed, duplicate-free data.
-6. **Map Visualization** – Highlights **sales distribution** across regions.
+
+
+
+1. **Refresh Data** ![hourglass](https://github.com/user-attachments/assets/807aa291-8cc3-4f60-9682-5aad8d142d33) – Updates all pivot tables and calculations.
+2. **Dashboard** ![productivity](https://github.com/user-attachments/assets/e7cdf6f5-38be-410a-be09-759228a4fc46)
+  – Returns to the main interface.
+3. **Descriptive Statistics** ![analytics](https://github.com/user-attachments/assets/b7538821-11e5-4293-a352-ee49e4fa7e9e)
+  – Opens the Data_Analysis sheet for summary metrics and T-tests.
+4. **Sales Form**  ![registration](https://github.com/user-attachments/assets/902bff18-b3ab-4776-a6f0-6caa04b90a69)
+ – Jumps to the data entry form.
+5. **Cleaned Dataset**  ![database-table](https://github.com/user-attachments/assets/2c3333a8-9271-457a-8c14-8f96ead86253)
+ – Displays the processed, duplicate-free data.
+6. **Map Visualization** ![W31X](https://github.com/user-attachments/assets/6b5043f9-b70e-4f0d-9527-fe12e3c28f34)
+ – Highlights **sales distribution** across regions.
 
 ---
 
