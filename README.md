@@ -8,8 +8,8 @@ This repository contains an Excel-based **Sales Data Analysis & Dashboard** desi
 ## How to Download & Extract Files
 1. Download the required files
 Raw Data : [Sales_Raw_Data.xlsx](https://github.com/Saher-Younas/Retail_Store_Excel_Data_Analysis/blob/main/sales_raw_data.xlsx)                                                       Cleaned Data : [Retail_Store_Sales_Cleaned_Data.xlsx](https://github.com/Saher-Younas/Retail_Store_Excel_Data_Analysis/blob/main/Retail_Store_Sales_Cleaned_Data.xlsx)
-- Locate the downloaded XLSX file on your computer.
-- Double-click to open it in Microsoft Excel (or an alternative spreadsheet software like Google Sheets).
+   - Locate the downloaded XLSX file on your computer.
+   - Double-click to open it in Microsoft Excel (or an alternative spreadsheet software like Google Sheets).
 2. Click on the ZIP file link: [Retail_Sales_Full_Project_Dashboard.zip](https://github.com/Saher-Younas/Retail_Store_Excel_Data_Analysis/blob/main/Retail_Sales_Full_Project_Dashboard.zip).
 3. Download the ZIP file to your computer.
 4. Extract the contents using one of the following methods:
