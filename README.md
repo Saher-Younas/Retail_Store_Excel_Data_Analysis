@@ -48,6 +48,9 @@ This ensures all subsequent analyses and visualizations are based on **reliable,
 - Includes a **T-Test** to examine the relationship between **delivery time and return status** (Completed vs. Returned).
 - **Results:**
   - **p-value < 0.05**, indicating **longer delivery times correlate with higher return likelihood**.
+
+  ![Data_Analysis](https://github.com/user-attachments/assets/ff8e3fd9-fd62-446f-9c68-be44dc5c10ac)
+
   
 ### **Business Recommendations:**
 1. Closely **monitor orders exceeding a 7-day delivery window**.
@@ -60,6 +63,9 @@ This ensures all subsequent analyses and visualizations are based on **reliable,
 - Displays metrics such as **Total Revenue, Total Cost, Net Profit, and Product-Level Summaries**.
 - Provides a concise **overview of performance** for quick decision-making.
 
+  ![image](https://github.com/user-attachments/assets/ed788da8-6a54-43ce-9314-237049569202)
+
+
 ---
 
 ## Sales Form (Sheet: "Sales Form")
@@ -67,6 +73,7 @@ This ensures all subsequent analyses and visualizations are based on **reliable,
 - A **user-friendly data entry form** for adding new sales records.
 - Uses **data validation** to ensure accuracy (dropdown lists for categories, payment methods).
 - Employs **macros** to **automate data transfer and pivot table refreshes**.
+  
 ![Sales_Form](https://github.com/user-attachments/assets/65d31744-21f3-46b3-8837-27db5a1253b5)
 
 By updating the workbook **in real time**, any new sales data is immediately **reflected in reports and dashboards**.
@@ -75,6 +82,7 @@ By updating the workbook **in real time**, any new sales data is immediately **r
 
 ## Interactive Dashboard (Sheet: "Dashboard")
 - Offers **real-time insights into sales performance**, featuring:
+- 
 ![Dashboard](https://github.com/user-attachments/assets/534d1b7f-a441-4acd-9af7-4a1074707f9d)
 
 
@@ -103,9 +111,9 @@ On the left side of the dashboard, six clickable icons link to:
 ---
 
 ## File Structure
-- **SalesDashboard.xlsm**
-  - **Raw Data** – Original dataset with potential duplicates or missing values
-  - **Cleaned Data** – Refined table for accurate calculations
+- **Retail_Sales_Full_Project_Dashboard.xlsm**
+  - **Raw Data** – Original dataset with potential duplicates or missing values [Sales_Raw_Data.xlsx](https://github.com/Saher-Younas/Retail_Store_Excel_Data_Analysis/blob/main/sales_raw_data.xlsx)
+  - **Cleaned Data** – Refined table for accurate calculations and named as Retail Store Sale
   - **Data Analysis** – Statistical summaries (descriptive statistics, T-test)
   - **KPI** – Key performance metrics derived from pivot tables
   - **Sales Form** – Macro-enabled data entry interface
@@ -120,5 +128,5 @@ If you have **improvements or suggestions**, feel free to **open an issue or sub
 ---
 
 ## Conclusion
-By combining **data cleaning, statistical analysis, pivot tables, and an interactive dashboard** in **SalesDashboard.xlsm**, this project demonstrates how **Excel can serve as a powerful platform for business intelligence**. From **quick data entry** to **in-depth performance metrics**, the entire workflow is consolidated into a **single, user-friendly file** that supports **real-time decision-making**.
+By combining **data cleaning, statistical analysis, pivot tables, and an interactive dashboard** in **Retail_Sales_Full_Project_Dashboard.xlsm**, this project demonstrates how **Excel can serve as a powerful platform for business intelligence**. From **quick data entry** to **in-depth performance metrics**, the entire workflow is consolidated into a **single, user-friendly file** that supports **real-time decision-making**.
 
